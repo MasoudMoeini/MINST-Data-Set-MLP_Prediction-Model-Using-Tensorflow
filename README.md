@@ -1,4 +1,4 @@
-# MINST dataset Prediction with Tensorflow MLP 
+# MINST Data Set MLP Prediction Model using tensorflow  
 Building a **Multi-Layer perceptron using Tensorflow**.<br/> 
 Ref:https://towardsdatascience.com/multi-layer-perceptron-using-tensorflow-9f3e218a4809
 <br/>
